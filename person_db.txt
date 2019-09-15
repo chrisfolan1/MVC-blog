@@ -1,0 +1,13 @@
+{
+ "names":[
+         {"first_name":"fred","last_name":"flintstone"},
+		 {"first_name":"wilmna","last_name":"flintstone"},
+		 {"first_name":"barney","last_name":"rubble"},
+		 {"first_name":"betty","last_name":"rubble"}
+        ],
+"masks":
+         {"id":"valore"},
+"om_points":"value",
+"parameters":
+         {"id":"valore"}
+}
